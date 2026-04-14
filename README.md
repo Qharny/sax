@@ -12,6 +12,11 @@ This document outlines the complete product specification for a marketplace plat
 
 **Related:** The canonical LaTeX source for print/PDF is [`doc.tex`](doc.tex). Build with **pdfLaTeX** in TeXworks (not plain pdfTeX).
 
+**Live web properties**
+
+- [SaxConnect — Book Live Saxophone Performers](https://saxconnect.netlify.app/)
+- [SaxLink — Book Live Saxophonists for Any Event](https://saxlink.netlify.app/)
+
 ---
 
 ## Table of contents
